@@ -9,6 +9,19 @@ An end-to-end DWBI project using Apache NiFi and Metabase to process Uber trip d
 - Metabase
 - Java
 
+## Dataset
+
+The project uses an Uber trip dataset containing:
+- Trip ID
+- Fare Amount
+- Pickup Datetime
+- Passenger Count
+- Pickup Coordinates
+- Dropoff Coordinates
+
+Dataset File:
+`uber_trip_dataset.csv`
+
 ## ETL Workflow
 1. Extract CSV data using GetFile
 2. Transform records using UpdateRecord
