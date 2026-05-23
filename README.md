@@ -9,6 +9,11 @@ An end-to-end DWBI project developed using Apache NiFi and Metabase to process U
 ### Apache NiFi ETL Pipeline
 ![NiFi Pipeline](image.png)
 
+## MySQL Database Output
+
+### Trips Table Data
+![MySQL Output](mysql.png)
+
 
 
 
