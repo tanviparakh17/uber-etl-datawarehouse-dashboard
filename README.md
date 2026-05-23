@@ -12,7 +12,7 @@ An end-to-end DWBI project developed using Apache NiFi and Metabase to process U
 ## MySQL Database Output
 
 ### Trips Table Data
-![MySQL Output](mysql.png)
+![MySQL Output](my_sql.png)
 
 
 
